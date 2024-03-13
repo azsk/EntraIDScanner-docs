@@ -1,0 +1,1 @@
+# EntraIDScanner-docs
